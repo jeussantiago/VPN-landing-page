@@ -1,0 +1,40 @@
+.deviceContainer {
+  /* border: 1px solid red; */
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.deviceCol {
+  /* border: 1px solid red; */
+  border: none;
+}
+
+.deviceImg {
+  /* border: 1px solid blue; */
+  background: url("https://mac.eltima.com/imgnew/products/sm/features/collageDevices.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.deviceTextContainer {
+  /* border: 1px solid blue; */
+  text-align: left;
+}
+
+.deviceHeader {
+  font-size: 45px;
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+
+.deviceText {
+  font-size: 20px;
+  margin-bottom: 30px;
+  font-weight: 300;
+}
+
+.deviceIcon {
+  font-size: 30px;
+  margin-right: 30px;
+}

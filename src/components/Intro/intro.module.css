@@ -1,0 +1,85 @@
+.introWrapper {
+  background-image: linear-gradient(to right, rgba(168, 192, 255, 0.3), rgba(63, 43, 150, 0.7));
+}
+
+.introContainer {
+  /* border: 1px solid red; */
+  padding-top: 130px;
+  padding-bottom: 90px;
+}
+
+.introInnerContainer {
+  /* border: 1px solid green; */
+  /* border: none; */
+  /* height: var(--containerHeight); */
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #000;
+}
+
+.introTextContainer {
+  /* border: 1px solid red; */
+  height: 100%;
+  width: 100%;
+  text-align: left;
+}
+
+.introHeading {
+  font-size: 70px;
+  margin-bottom: 30px;
+}
+
+.introSubHeading {
+  font-size: 40px;
+  margin-bottom: 30px;
+  font-weight: 100;
+}
+
+.introButton {
+  margin-bottom: 30px;
+}
+
+.introButton:focus, .introButton:active {
+  outline: none;
+}
+
+.introPara {
+  font-size: 20px;
+}
+
+.introCol {
+  /* border: 1px solid red; */
+  border: none;
+}
+
+.introImg {
+  /* border: 1px solid blue; */
+  background: url("https://d32zzxnqxv9yu7.cloudfront.net/static/img/support-guru.72f1c46.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+
+
+
+
+@media only screen and (max-width: 770px) {
+  .introHeading {
+    font-size: 45px;
+    font-weight: 500;
+  }
+
+  .introSubHeading {
+    font-size: 30px;
+    font-weight: 300;
+  }
+
+  .introPara {
+    font-size: 16px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+
+}

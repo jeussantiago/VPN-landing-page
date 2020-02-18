@@ -1,0 +1,84 @@
+.pricesContainer {
+  /* border: 1px solid blue; */
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.pricesHeader {
+  font-size: 50px;
+  font-weight: 600;
+  margin-bottom: 50px;
+}
+
+.pricesDealContainer {
+  border: 1px solid red;
+  border: none;
+  margin: 50px 0;
+}
+
+.pricesCard {
+  /* border: 1px solid blue; */
+  background-image: linear-gradient(to right, rgba(168, 192, 255, 0.3), rgba(63, 43, 150, 0.7));
+  box-shadow: 13px 9px 8px #888888;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.pricesCard:hover {
+  box-shadow: none;
+  transform: translate(13px, 9px);
+  border: 7px ridge royalblue;
+  cursor: pointer;
+}
+
+.pricesDurationContainer {
+  /* border: 1px solid black; */
+  padding-top: 50px;
+  margin-bottom: 25px;
+}
+
+.pricesDuration {
+  /* border: 1px solid green; */
+  color: #000;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.pricesDeal {
+  /* border: 1px solid red; */
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.cost {
+  font-size: 80px;
+  /* border: 1px solid black; */
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.costText {
+  font-size: 16px;
+  font-weight: 600;
+  /* border: 1px solid red; */
+}
+
+.pricesParaContianer {
+  border: 1px solid gray;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.pricesPara {
+  font-weight: 200;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+
+.pricesButton {
+  border-radius: 50px;
+  margin-bottom: 50px;
+}

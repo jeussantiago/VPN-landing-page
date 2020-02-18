@@ -1,0 +1,36 @@
+.encryptContainer {
+  /* border: 1px solid red; */
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+.encryptCol {
+  /* border: 1px solid red; */
+  border: none;
+}
+
+.encryptImg {
+  /* border: 1px solid blue; */
+  background: url("encryptImg/encryptedComp.png");
+  transform: scaleX(-1);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.encryptTextContainer {
+  /* border: 1px solid blue; */
+  text-align: left;
+}
+
+.encryptHeader {
+  font-size: 45px;
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+
+.encryptText {
+  font-size: 20px;
+  margin-bottom: 50px;
+  font-weight: 300;
+}

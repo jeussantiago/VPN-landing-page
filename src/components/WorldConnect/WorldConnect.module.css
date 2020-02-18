@@ -1,0 +1,35 @@
+.worldContainer {
+  /* border: 1px solid red; */
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.worldCol {
+  /* border: 1px solid red; */
+  border: none;
+}
+
+.worldImg {
+  /* border: 1px solid blue; */
+  background: url("https://internaltrade.com.co/wp-content/uploads/2017/09/4351bc3.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.worldTextContainer {
+  /* border: 1px solid blue; */
+  text-align: left;
+}
+
+.worldHeader {
+  font-size: 45px;
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+
+.worldText {
+  font-size: 20px;
+  margin-bottom: 50px;
+  font-weight: 300;
+}

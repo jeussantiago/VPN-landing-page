@@ -1,0 +1,53 @@
+:root {
+  --text-regular-color: #fff;
+  --text-highlight-color: rgb(124, 103, 219);
+}
+/* rgb(105, 82, 204) */
+
+.footerWrapper {
+  background-color: rgb(40, 44, 52);
+  color: var(--text-regular-color);
+}
+
+.footerContainer {
+  /* border: 1px solid red; */
+  padding: 50px 0;
+  /* border: none; */
+}
+
+.footerHelpRow {
+  border-bottom: 1px solid var(--text-highlight-color);
+}
+
+.footerColContainer {
+  /* border: 1px solid blue; */
+  text-align: left;
+  padding-bottom: 40px;
+}
+
+.footerColSectionHeader {
+  color: var(--text-highlight-color);
+  margin-bottom: 10px;
+  font-size: 20px;
+  /* border: 1px solid blue; */
+}
+
+.footerColSectionLink {
+  color: var(--text-regular-color);
+  margin-bottom: 10px;
+  font-size: 16px;
+  /* border: 1px solid blue; */
+}
+
+.footerColSectionLink:hover {
+  color: var(--text-highlight-color);
+  text-decoration: underline;
+}
+
+.footerIcon {
+  color:var(--text-regular-color);
+}
+
+.footerIcon:hover {
+  color: var(--text-highlight-color);
+}

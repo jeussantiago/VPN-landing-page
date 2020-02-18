@@ -1,0 +1,45 @@
+.commentsContainer {
+  border-bottom: 10px double black;
+  padding: 70px 0;
+}
+
+.commentsHeader {
+  font-size: 60px;
+  font-weight: 300;
+  margin-bottom: 100px;
+}
+
+.commentsTweetBox {
+  border: 5px double royalblue;
+  box-shadow: 7px 4px 15px #888888;
+  padding: 10px 50px;
+  background-color: rgb(248, 248, 248);
+  border-radius: 7px;
+}
+
+.userDataContainer {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+
+  /* border: none; */
+}
+.userIcon {
+  font-size: 70px;
+  color: rgb(138, 135, 135);
+  margin-right: 20px;
+  /* border: 1px solid blue; */
+}
+
+.userName {
+  font-size: 30px;
+  /* border: 1px solid blue; */
+}
+
+.tweetContainer {
+  /* border: 1px solid purple; */
+  text-align: left;
+  /* border: none; */
+}

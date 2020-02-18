@@ -1,0 +1,50 @@
+.riskWrapper {
+  background-image: linear-gradient(to right, rgba(168, 192, 255, 0.3), rgba(63, 43, 150, 0.7));
+}
+
+.riskContainer {
+  /* border: 1px solid blue; */
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
+
+.riskHeading {
+  font-size: 60px;
+  font-weight: 300;
+  margin-bottom: 50px;
+}
+
+.riskGrid {
+  /* border: 1px solid green; */
+  margin-bottom: 50px;
+}
+
+.riskGridRow {
+  /* border: 1px solid blue; */
+  border: none;
+}
+
+.riskGridElem {
+  /* border: 1px solid red; */
+  text-align: left;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.iconDesign {
+  font-size: 45px;
+  color: royalblue;
+  margin-bottom: 15px;
+}
+
+.riskGridHeading {
+  font-size: 25px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+
+.riskGridDesc {
+  font-size: 16px;
+  font-weight: 100;
+}

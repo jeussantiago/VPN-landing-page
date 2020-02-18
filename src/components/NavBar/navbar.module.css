@@ -1,0 +1,60 @@
+.navBarContainer {
+  /* border: 5px solid blue; */
+  background-color: rgb(40, 44, 52);
+  /* background-image: linear-gradient(to right, rgb(202, 217, 255), rgb(79, 64, 146)); */
+  border-bottom: 0.5px solid rgba(93, 93, 93, 0.6);
+  z-index: 1;
+}
+/* rgb(40, 44, 52) */
+/* rgb(37, 37, 37) */
+/* linear-gradient(to right,  #a8c0ff,  #3f2b96)  */
+/* linear-gradient(to right, rgb(202, 217, 255), rgb(79, 64, 146)) */
+.navLogo {
+  font-size: 40px;
+  color: #fff;
+  letter-spacing: -5px;
+}
+
+.navLogo:hover {
+  text-decoration: none;
+  color: royalblue;
+}
+
+
+.navButton {
+  border: 1px solid red;
+  height: 100px;
+}
+
+.navButtonLines {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+
+.navRightText {
+  color: #fff;
+  padding-left: 13px;
+  padding-right: 12px;;
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 0px;
+}
+
+.navRightLine {
+  border-right: 1px solid #fff;
+}
+
+.navRightText:hover {
+  text-decoration: none;
+  color: royalblue;
+}
+
+.navDropdown {
+  font-size: 50px;
+}
+
+.navDropdownLink {
+  font-size: 50px;
+}
