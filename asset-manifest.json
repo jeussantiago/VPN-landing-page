@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vpn-landing-page/static/css/main.42f45313.chunk.css",
+    "main.js": "/vpn-landing-page/static/js/main.58624a92.chunk.js",
+    "main.js.map": "/vpn-landing-page/static/js/main.58624a92.chunk.js.map",
+    "runtime-main.js": "/vpn-landing-page/static/js/runtime-main.c42be5b5.js",
+    "runtime-main.js.map": "/vpn-landing-page/static/js/runtime-main.c42be5b5.js.map",
+    "static/js/2.aa948238.chunk.js": "/vpn-landing-page/static/js/2.aa948238.chunk.js",
+    "static/js/2.aa948238.chunk.js.map": "/vpn-landing-page/static/js/2.aa948238.chunk.js.map",
+    "index.html": "/vpn-landing-page/index.html",
+    "precache-manifest.e475c174980f8ed221665450417a3a26.js": "/vpn-landing-page/precache-manifest.e475c174980f8ed221665450417a3a26.js",
+    "service-worker.js": "/vpn-landing-page/service-worker.js",
+    "static/css/main.42f45313.chunk.css.map": "/vpn-landing-page/static/css/main.42f45313.chunk.css.map",
+    "static/js/2.aa948238.chunk.js.LICENSE.txt": "/vpn-landing-page/static/js/2.aa948238.chunk.js.LICENSE.txt",
+    "static/media/Encrypt.module.css": "/vpn-landing-page/static/media/encryptedComp.be791618.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c42be5b5.js",
+    "static/js/2.aa948238.chunk.js",
+    "static/css/main.42f45313.chunk.css",
+    "static/js/main.58624a92.chunk.js"
+  ]
+}
