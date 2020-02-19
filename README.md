@@ -1,4 +1,4 @@
-# vpn-landing-page
+## This project is a product landing page for a made up VPN brand, NotRealVPN.
 
 ## You can see a live demo at: https://jeussantiago.github.io/vpn-landing-page/
 
